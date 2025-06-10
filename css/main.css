@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* Main CSS Doc */
+
+/* 
+    CSS Guide
+
+    1. General Styles
+    2. 
+
+*/
+
+/* 1. --- General Styles --- */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+img, embed, object, video, picture {
+    max-width: 100%;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    transition: all .5s ease-in-out;
+}
+
+input, textarea {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+section h2, section h3, section p {
+    padding-left: 15px;
+}
+
+.spacer {
+    margin-top: 60px;
+}
+
+.txt-spacer {
+    margin-top: 30px;
+}
+
+/* 1. --- END General Styles --- */
+
+/* 2. --- Mobile Grid --- */
+
+
+
+/* 2. --- END Mobile Grid --- */
+
+/* 3. --- Tablet Grid --- */
+
+@media screen and (min-width: 768px) {
+
+
+
+
+
+}
+
+/* 3. --- END Tablet Grid --- */
+
+/* 4. --- Desktop Grid --- */
+
+@media screen and (min-width: 1200px) {
+
+
+
+}
+
+/* 4. --- END Desktop Grid --- */
+
+/* 5. --- XL Grid --- */
+
+@media screen and (min-width: 1920px) {
+
+
+
+
+
+}
+
+/* 5. --- END XL Grid --- */
