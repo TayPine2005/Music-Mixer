@@ -21,4 +21,4 @@ Open the file labeled "index.html" in the preferred browser.
 Justine Nathalie Ng and Taylor Pineda Schwarzbauer
 
 ## License
-See License file.
+This project is licensed under the [MIT License](LICENSE)
